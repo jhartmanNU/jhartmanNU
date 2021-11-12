@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Jenni
-- 👀 I’m interested in automation - Terraform & Ansible to be specific
-- 🌱 I’m currently learning how to apply Sentinel policies to Terraform code
+- 💻 I work in infrastructure automation - VMware, AWS, Terraform
+- 💡 I am interested in data science and machine learning
+- 🌱 I’m currently learning Python, R, and Tableau
 
-- 📫 How to reach me: jenni.hartman@northwestern.edu
+- 📫 How to reach me: jenni.hartman@icloud.com
 
 <!---
 jhartmanNU/jhartmanNU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
