@@ -1,7 +1,7 @@
 - 👋  Hi, I’m Jenni
-- 💻  I am a senior sys admin that works with VMware, AWS, Terraform
-- 💡  I am interested in web development
-- 🌱  I’m currently learning Python, Node, React, Javascript, and MySQL
+- 💻  I am a senior sys admin that works with VMware, AWS, Terraform, Ansible, AWX
+- 💡  I am interested in back-end development and automation
+- 🌱  I’m currently learning Node.js
 
 - 📫  How to reach me: jenni.hartman@icloud.com
 
