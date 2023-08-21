@@ -1,7 +1,5 @@
 - 👋  Hi, I’m Jenni
-- 💻  I am a senior sys admin that works with VMware, AWS, Terraform, Ansible, AWX
-- 💡  I am interested in back-end development and automation
-- 🌱  I’m currently learning Python and Django
+- 💻  I manage a team of system engineers at Northwestern University
 
 - 📫  How to reach me: jenni.hartman@northwestern.edu
 
