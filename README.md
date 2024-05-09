@@ -1,7 +1,7 @@
 - 👋  Hi, I’m Jenni
-- 💻  I manage a team of system engineers at Northwestern University
+- 💻  I'm a senior system engineer at Northwestern University
 
-- 📫  How to reach me: jenni.hartman@northwestern.edu
+- 📫  How to reach me: jenni.hartman@northwestern.edu or linkedin.com/in/jennihartman
 
 <!---
 jhartmanNU/jhartmanNU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
