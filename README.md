@@ -1,5 +1,5 @@
 - 👋  Hi, I’m Jenni
-- 💻  I'm a senior system engineer at Northwestern University
+- 💻  I'm a senior systems engineer at Northwestern University
 
 - 📫  How to reach me: jenni.hartman@northwestern.edu or [Linkedin](http://linkedin.com/in/jennihartman)
 
